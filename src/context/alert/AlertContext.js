@@ -19,7 +19,7 @@ const setAlert = (msg,type) =>{
 
     setTimeout(() => {
         dispatch({
-            type:'REMOBE_ALERT',
+            type:'REMOVE_ALERT',
         })
     }, 3000);
 }
