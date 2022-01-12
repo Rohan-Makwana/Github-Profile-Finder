@@ -102,7 +102,7 @@ function User() {
                 <div className="w-full py-5 mb-6 rounded-lg shadow-md bg-base-100 stats">
                     <div className="stat">
                         <div className="stat-figure text-secondary">
-                            <FaUsers className='text-3xl md:text-5xl'/>
+                            <FaUsers color="#570df8" className='text-3xl md:text-5xl'/>
                         </div>
                         <div className="stat-title pr-5">
                             Followers
@@ -114,7 +114,7 @@ function User() {
                     </div>
                     <div className="stat">
                         <div className="stat-figure text-secondary">
-                            <FaUserFriends className='text-3xl md:text-5xl'/>
+                            <FaUserFriends color="#570df8" className='text-3xl md:text-5xl'/>
                         </div>
                         <div className="stat-title pr-5">
                             Following
@@ -126,7 +126,7 @@ function User() {
                     </div>
                     <div className="stat">
                         <div className="stat-figure text-secondary">
-                            <FaCodepen className='text-3xl md:text-5xl'/>
+                            <FaCodepen color="#570df8" className='text-3xl md:text-5xl'/>
                         </div>
                         <div className="stat-title pr-5">
                             Public Repos
@@ -138,7 +138,7 @@ function User() {
                     </div>
                     <div className="stat">
                         <div className="stat-figure text-secondary">
-                            <FaStore className='text-3xl md:text-5xl'/>
+                            <FaStore color="#570df8" className='text-3xl md:text-5xl'/>
                         </div>
                         <div className="stat-title pr-5">
                             Public Gists

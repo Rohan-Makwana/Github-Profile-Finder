@@ -6,7 +6,7 @@ function RepoItems({repo}) {
     const {name,description,html_url,forks,open_issues,watchers_count,stargazers_count} = repo;
 
     return (
-        <div className='mb-2 rounded-md card bg-gray-700 hover:bg-gray-900'>
+        <div className='mb-2 rounded-md card bg-base-100 hover:bg-base-300 shadow-md hover:shadow-xl'>
             <div className="card-body">
                 <h3 className="text-xl mb-2 font-semibold">
                     <a href={html_url}>
