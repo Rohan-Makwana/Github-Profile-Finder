@@ -13,7 +13,7 @@ function UserSearch() {
          e.preventDefault();
 
          if(text === ''){
-            setAlert('Please Enter the name to be search','error');
+            setAlert('Please Enter the name of the user to be searched.','error');
         }
         else{
             searchUsers(text);
