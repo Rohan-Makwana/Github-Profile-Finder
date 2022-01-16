@@ -6,3 +6,7 @@
     border-radius: 0.5rem;
     opacity: 0.40;
 }
+
+.f-icons:nth-child(0):hover{
+    color:#333;
+}

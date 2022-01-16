@@ -10,7 +10,7 @@ function Navbar({title}) {
     }
 
     return (
-        <nav className='navbar mb-12 shadow-lg bg-neutral text-neutral-content '>
+        <nav className='navbar mb-12 shadow-lg bg-slate-800 text-neutral-content '>
             <div className="container mx-auto">
               <div className="flex-none mx-2 px-2">
                   <FaGithub className='inline pr-2 text-2xl md:text-3xl'/>
@@ -21,7 +21,7 @@ function Navbar({title}) {
               <div className="flex-1 mx-1 px-1 md:mx-2 md:px-2">
                   <div className="flex justify-end">
                       <button onClick={toggleTheme} className="btn btn-ghost btn-xs md:btn-sm btn-rounded ml-1 md:ml-2">
-                          🌙/☀️
+                          🌕/☀️
                       </button>
                       <Link to="/" className='btn btn-ghost btn-xs rounded-btn md:btn-sm ml-1 md:ml-2'>
                           Home 
