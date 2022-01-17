@@ -1,5 +1,4 @@
-# Project Title
-Github Profile Finder
+# Github Profile Finder
 
 ## Demo link:
 Access my site at [Github-Profile-Finder](https://github-profile-finder-rohan-makwana.vercel.app/)
@@ -28,7 +27,7 @@ Access my site at [Github-Profile-Finder](https://github-profile-finder-rohan-ma
 ![Profile Page](https://drive.google.com/uc?export=view&id=1x1_41tywXLkoMNRIfSokSZTVZ17REw6e)
 
 ## Technologies
-Technologies used:- `react.js`, `git`, `javascript`, `html`, `css`, `node.js`, `tailwindcss`, `Daisy UI`.
+- Technologies used:- `react.js`, `git`, `javascript`, `html`, `css`, `node.js`, `tailwindcss`, `Daisy UI`.
 
 ## Setup
 
@@ -56,7 +55,7 @@ Technologies used:- `react.js`, `git`, `javascript`, `html`, `css`, `node.js`, `
 ```
 
 ## Status
-Github Profile Finder is almost complete. Will add new features, refactor code & update the UI in future.
+- Github Profile Finder is almost complete. May add new features, refactor code or update the UI in future.
 
 ## Credits
 - This project is inspired by & co-developed using one of the projects in [Brad Traversy's](https://github.com/bradtraversy) 'React Front to Back 2022' course.
